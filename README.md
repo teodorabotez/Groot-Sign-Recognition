@@ -34,3 +34,7 @@ After all those steps, you need to press "testeaza semnele".
 The 2 buttons "vzualizeaza semne" and "informatii" are there to help you use the app better.
 
 The first one shows you the gestures learned for this app and the second one shows you a pop-up message that presents you infos about how to use the app.
+
+In the "sunete"folder, are the sounds that i recorded to play when a sign is recognized.
+
+And in the "poze-semne" are the gestures required in the "vizualizeaza semne" window.
