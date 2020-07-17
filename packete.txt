@@ -1,0 +1,15 @@
+tkinter 
+PIL 
+cv2
+numpy 
+pickle
+glob 
+random
+sklearn
+tensorflow 
+sqlite3,
+keras
+threading
+scipy
+pygame
+matplotlib.pyplot 
